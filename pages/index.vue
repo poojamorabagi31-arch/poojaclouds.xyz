@@ -1,8 +1,8 @@
 <template>
   <div class="container">
     <header>
-      <h1>Welcome to Ambzclouds ☁️</h1>
-      <img src="/images/Gemini_Generated_Image_ys96p8ys96p8ys96.png" alt="Ambresh" class="profile-image" />
+      <h1>Welcome to poojaclouds ☁️</h1>
+      <img src="/images/IMG_20251117_122438.jpg" alt="pooja" class="profile-image" />
       <p>Your one-stop platform for AWS & DevOps learning</p>
     </header>
 
